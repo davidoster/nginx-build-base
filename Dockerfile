@@ -15,4 +15,5 @@ RUN apt-get -qq update \
     libcurl4-openssl-dev \
     libc6-dev-i386 \
     libpcre3-dev \
+    libssl-dev \
     zlib1g-dev
